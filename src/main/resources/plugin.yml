@@ -1,0 +1,4 @@
+name: CompassPlayerTracker
+version: ${project.version}
+main: de.apinat.compassplayertracker.CompassPlayerTracker
+api-version: 1.16
